@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo_Juan.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="286.02023"
+     inkscape:cy="615.52431"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1250"
+     inkscape:window-height="755"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="426.78945,680.33775"
+       orientation="1,0"
+       id="guide4354" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:97.65106201px;line-height:1000%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#c87137;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="179.76715"
+       y="289.99127"
+       id="text4349"
+       sodipodi:linespacing="1000%"
+       transform="scale(1.2220087,0.81832478)"><tspan
+         sodipodi:role="line"
+         id="tspan4351"
+         x="179.76715"
+         y="289.99127"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:73.23826599px;font-family:'Bodoni 72 Oldstyle';-inkscape-font-specification:'Bodoni 72 Oldstyle'">Web Design</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Capa 3">
+    <rect
+       style="fill:#c83737;fill-opacity:0.53763446"
+       id="rect4357"
+       width="370.70514"
+       height="7.1348443"
+       x="272.23999"
+       y="-610.85278"
+       transform="scale(1,-1)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Capa 2"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:499.84954834px;line-height:1000%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0fcc93;fill-opacity:0.53763446;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="85.577629"
+       y="483.8064"
+       id="text3539"
+       sodipodi:linespacing="1000%"
+       transform="scale(0.8672374,1.1530868)"><tspan
+         sodipodi:role="line"
+         id="tspan3541"
+         x="85.577629"
+         y="483.8064"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Bodoni 72';-inkscape-font-specification:'Bodoni 72 Bold'"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Bodoni 72';-inkscape-font-specification:'Bodoni 72 Bold';fill:#a05a2c"
+           id="tspan4347">J</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:372.18728638px;font-family:'Bodoni 72';-inkscape-font-specification:'Bodoni 72 Bold';fill:#ff0000"
+           id="tspan4345">CL</tspan></tspan></text>
+  </g>
+</svg>
